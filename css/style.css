@@ -1,0 +1,16 @@
+h1.text-style{
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    letter-spacing: 8px;
+    word-spacing: 26px;
+    color: red;
+}
+
+p.justify-text{
+    text-align: justify;
+}
